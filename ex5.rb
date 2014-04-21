@@ -21,7 +21,7 @@ puts "Wow, six 0s... so can we change that? %.2f" % robots
 puts "Hah, eat it - yes we can"
 puts "OK, so what else can we do with these robots... %020.3f %f" % [robots, robots]
 puts "Well that's pretty freaky"
-puts "OK, hex and octal and then to bed :) %x %o" % [robots, robots*robots]
-puts "So %d in ocatal is %o. I wonder what it is in hexadecimal and in caps: %X" % [robots*robots, robots*robots, robots*robots]
+puts "OK, hex and octal and then to bed :) %x %o" % [robots, robots*robots*robots]
+puts "So %d in ocatal is %o. I wonder what it is in hexadecimal and in caps: %X" % [robots*robots*robots, robots*robots*robots, robots*robots*robots]
 puts "Learn a new thing every day..."
 
