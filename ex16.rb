@@ -15,7 +15,7 @@ print "line 2: "; line2 = STDIN.gets.chomp
 print "line 3: "; line3 = STDIN.gets.chomp
 puts "I'm going to write these to the files"
 target.write("#{line1}\n#{line2}\n#{line3}\n"
-puts "And finally, we close it."
+puts "And endally, we close it."
 target.close
 
 # Extra Credit

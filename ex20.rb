@@ -39,7 +39,7 @@ print_a_line(current_line, current_file)
 # This reads off a line (returns a string) from the ios in question (the file), and also increments a variable called lineno
 # So there's no need to keep count of the current linenumber, as Ruby is already doing that for me (see altered print_a_line above)
 # As long as we're happy to start counting lines from 0
-# Which, deferring to my old teacher David Miller, we definitely are.
+# Which, deferring to my old teacher David Miller, we deenditely are.
 # (Or we can throw a +1 in but I can't be bothered)
 #
 # PS - I'm stripping out all these ruddy () from the end of methods with no arguments. Just pointless.
